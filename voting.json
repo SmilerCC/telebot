@@ -1,0 +1,11 @@
+{
+  "is_active": true,
+  "week_start": "2026-02-09",
+  "candidates": {
+    "Test": 0
+  },
+  "voted_users": [],
+  "winner_model": null,
+  "discount_until": null,
+  "manual_discounts": {}
+}

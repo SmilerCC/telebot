@@ -1,0 +1,46 @@
+{
+  "prod_1_1770988389": {
+    "id": "prod_1_1770988389",
+    "name": "TEst",
+    "description": "Test",
+    "price_stars": 1,
+    "category": "Test",
+    "model_name": "Test",
+    "media_files": [
+      "prod_1_1770988389_1cc7f2f1.jpg"
+    ],
+    "media_type": "photo",
+    "cover_file": null,
+    "purchase_count": 2,
+    "channel_id": null,
+    "channel_invite_link": null,
+    "welcome_message": null,
+    "is_channel_access": false,
+    "blur_photos": false,
+    "auto_delete": false,
+    "auto_delete_minutes": 15,
+    "created_at": "2026-02-13T14:13:20.711501"
+  },
+  "prod_2_1770988640": {
+    "id": "prod_2_1770988640",
+    "name": "Test_video",
+    "description": "Test_video",
+    "price_stars": 1,
+    "category": "Test",
+    "model_name": "Test",
+    "media_files": [
+      "prod_2_1770988640_8b79cc94.mp4"
+    ],
+    "media_type": "video",
+    "cover_file": null,
+    "purchase_count": 1,
+    "channel_id": null,
+    "channel_invite_link": null,
+    "welcome_message": null,
+    "is_channel_access": false,
+    "blur_photos": false,
+    "auto_delete": false,
+    "auto_delete_minutes": 15,
+    "created_at": "2026-02-13T14:18:28.249393"
+  }
+}

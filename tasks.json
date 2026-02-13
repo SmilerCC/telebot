@@ -1,0 +1,16 @@
+{
+  "daily_login": {
+    "name": "Ежедневный вход",
+    "description": "Зайдите в бота каждый день",
+    "points": 20,
+    "type": "daily",
+    "cooldown_hours": 24
+  },
+  "referral": {
+    "name": "Реферальная система",
+    "description": "Пригласите друга по своей реферальной ссылке",
+    "points": 50,
+    "type": "one_time",
+    "bonus_per_purchase": 20
+  }
+}
